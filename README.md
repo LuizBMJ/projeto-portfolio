@@ -1,2 +1,2 @@
-# portfolio-jorgelbm
+# projeto-portfolio
 Ultimo projeto do cursoemvideo.
